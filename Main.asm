@@ -1,7 +1,7 @@
 ;===============================================================================
 ; Commodore 64: "Your Game Project"
 ;
-; File: Project 7x: "Climbing Up"
+; File: Project 7: "Climbing Up"
 ;===============================================================================
 
 ; Bugs found: When scrolling the screen, sometimes the wall detection is not found
